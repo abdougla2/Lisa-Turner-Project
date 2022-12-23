@@ -1,0 +1,115 @@
+ * {
+  /*
+  font-family: 'Times New Roman', arial, serif;
+  */
+}
+
+#ownerPic {
+    width: 500px;
+    height: 500px;
+    
+    
+  }
+  
+  h1 {
+    font-size: 200px;
+  }
+
+  .navBar {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    /*
+    padding:;
+    */
+  }
+
+#bannerPic {
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+  background-size: cover;
+  opacity: 1;
+}
+
+.servicesPic {
+    height: 300px;
+    width: 420px;
+    border-radius: 50%;
+}
+
+#serviceLinks:hover {
+    border-bottom: solid;
+    border-width: 1px;
+}
+
+#fullCatalog:hover {
+    border-bottom: solid;
+    border-width: 1px;
+}
+
+.trainingsPic{
+    height: 500px;
+    width: 500px;
+    margin-left: 200px;
+    border-radius: 50%;
+}
+
+#trainingLines {
+    border: solid;
+    border-color: #a392ea;
+}
+
+.checkBox{
+    height: 30px;
+    width: 30px;
+}
+
+
+
+
+.bgContainer{
+    color: black;
+}
+
+#quote {
+    border: solid;
+    padding: 20px;
+    border-color: #a392ea;
+    border-width: 2px;
+    font-weight: bold;
+    color:rgb(72, 71, 71);
+    
+    
+}
+
+#abpic1{
+    border: solid;
+    padding: 20px;
+    border-color: #a392ea;
+    border-width: 2px;
+    width: 200px;
+}
+
+#logoBorder {
+    border: solid;
+    padding: 7px;
+    border-color: #a392ea;
+    border-width: 2px;
+    width: 2px;
+    color: black;
+    font-family: didot; 
+    
+
+}
+
+#hplogoBorder{
+    border: solid;
+    padding: 7px;
+    border-color: #a392ea;
+    border-width: 2px;
+    width: 2px;
+    color: black;
+    font-family: didot; 
+}
+
