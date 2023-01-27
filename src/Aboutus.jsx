@@ -36,7 +36,7 @@ Silla.
             <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-0 xl:mx-4 xl:w-1/2">
                 
                 <div>
-                    <img class=" rounded-xl aspect-square" id='ownerPic' src="./ownerPic.jpg" alt=""/>
+                    <img class=" aspect-square" id='ownerPic' src="./ownerPic.jpg" alt=""/>
 
                     <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white">Lisa Turner</h1>
 

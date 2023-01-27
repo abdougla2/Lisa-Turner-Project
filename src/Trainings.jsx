@@ -8,7 +8,7 @@ function Trainings (){
         <div className="lg:flex lg:items-center">
             <div className="w-full space-y-12 lg:w-1/2 ">
                 <div>
-                    <h1 className="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">explore our <br/> awesome Trainings!</h1>
+                    <a href='#' className="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">explore our <br/> awesome Trainings!</a>
 
                     <div className="mt-2">
                         <span id='trainingLines' className="inline-block w-40 h-1 bg-black rounded-full"></span>
@@ -23,7 +23,7 @@ function Trainings (){
                     </span>
 
                     <div className="mt-4 md:mx-4 md:mt-0">
-                        <h1 className="text-2xl font-semibold text-gray-700 capitalize dark:text-white">Intro to CRMs</h1>
+                        <a href='#' className="text-2xl font-semibold text-gray-700 capitalize dark:text-white">Intro to CRMs</a>
 
                         <p className="mt-3 text-gray-500 dark:text-gray-300">
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
@@ -37,7 +37,7 @@ function Trainings (){
                     </span>
 
                     <div className="mt-4 md:mx-4 md:mt-0">
-                        <h1 className="text-2xl font-semibold text-gray-700 capitalize dark:text-white">Intro to Software Design</h1>
+                        <a href='#' className="text-2xl font-semibold text-gray-700 capitalize dark:text-white">Intro to Software Design</a>
 
                         <p className="mt-3 text-gray-500 dark:text-gray-300">
                         Software design is the process by which an agent creates a specification of a software artifact intended to accomplish goals, using a set of primitive components and subject to constraints.
@@ -51,12 +51,15 @@ function Trainings (){
                     </span>
 
                     <div className="mt-4 md:mx-4 md:mt-0">
-                        <h1 className="text-2xl font-semibold text-gray-700 capitalize dark:text-white">Entrepreneurship 101</h1>
+                        <a href='#' className="text-2xl font-semibold text-gray-700 capitalize dark:text-white">Entrepreneurship 101</a>
 
                         <p className="mt-3 text-gray-500 dark:text-gray-300">
                         Entrepreneurship is the creation or extraction of economic value. With this definition, entrepreneurship is viewed as change, generally entailing risk beyond what is normally encountered in starting a business.
                         </p>
                     </div>
+                </div>
+                <div>
+                    <a href="#" id="fullCatalog" className="text-2xl font-semibold text-gray-700 capitalize dark:text-white">View Full Training Catalog</a>
                 </div>
             </div>
 
